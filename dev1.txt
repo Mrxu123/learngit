@@ -1,1 +1,2 @@
-This is new dev1 file and add some new function
+This is new dev1 file and other to add a new function
+
