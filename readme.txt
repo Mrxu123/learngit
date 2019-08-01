@@ -5,4 +5,5 @@ Git tracks changes of file.
 Creating a new branch is quick.
 Creating a new branch again.
 Creating a new branch is quick and simple.
-Branch charge add branch dev1.
+Branch charge add branch dev.
+Creat a branch to fix bug on dev branch.
